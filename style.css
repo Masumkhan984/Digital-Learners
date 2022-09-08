@@ -80,3 +80,10 @@ banner area
 /* ======================
 course area
 ======================== */
+/* =====================
+students area
+======================== */
+.inner_students {
+    padding-left: 0;
+    margin-top: 120px;
+}
