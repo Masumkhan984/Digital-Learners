@@ -94,3 +94,15 @@ Questions area
     margin-top: 120px;
     max-width: 872px;
 }
+/* ====================
+Company logos area
+======================= */
+#company_area{
+    margin-top: 120px;
+}
+/* ===============
+Footer
+================= */
+.inner_footer{
+    max-width: 321px;
+}
