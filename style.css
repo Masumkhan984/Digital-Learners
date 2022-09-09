@@ -55,9 +55,9 @@ a>img {
     margin-left: 20px;
 }
 
-.nav-item a {
+/* .nav-item a {
     font-weight: bold;
-}
+} */
 
 /* =====================
 banner area
@@ -84,6 +84,13 @@ course area
 students area
 ======================== */
 .inner_students {
-    padding-left: 0;
     margin-top: 120px;
+}
+
+/* =======================
+Questions area
+========================== */
+.inner_questions {
+    margin-top: 120px;
+    max-width: 872px;
 }
